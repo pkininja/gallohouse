@@ -55,3 +55,5 @@ plugins:
 #   - vendor/ruby/
 
 domain: pkininja.github.io
+url: https://pkininja.github.io
+baseurl: /gallohouse/
