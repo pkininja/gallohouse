@@ -1,5 +1,3 @@
 layout: page
 title: "Contact"
-permalink: /contact/
-
-Hello World
+permalink: /contact
