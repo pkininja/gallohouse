@@ -80,13 +80,49 @@ content:
             - Created security policies and processes that provide business flexibility while ensuring best practices and security. 
             - Mentored and lead less experienced teammates to deliver successful projects.
 
+      - layout: left
+        title: Gallo Security, Inc.
+        link: 
+        # link_text: 
+        sub_title: Owner and Principal Consultant
+        caption: Jun 2007 - Dec 2015
+        quote: >
+          Information security consultant for a variety of regional and global businesses. 
+        description: | # this will include new lines to allow paragraphs
+            -  A long-term security design and architecture project at a Fortune 10 company. Oversaw more than 40 high-security network enclaves spread across the United States. The enclaves enabled the business to provide services to the military and fulfill multi-billion dollar contracts. 
+            -  PKI consulting at a mid-sized logistics company. Identified an impending collapse of their systems and helped the client avert a catastrophic outage.
+            -  Helped a major company design and implement software to monitor firewall rules, analyze risk, and manage changes across hundreds of firewalls.
+            -  Designed a massive data analytics cluster service for a clinical testing company. Using Apache Hadoop, and running in AWS, the new system performed >100x faster than the client's old system. The analysis time shrunk from days to minutes, permitting the client to gain new insights and business.
+            -  Security architecture review and multiple ISO 27001/2 audits for several mid-size businesses.
+            -  Incident handling, forensics, and risk assessments for a university after a significant event.
+
+      - layout: left
+        title: Convergys
+        link: 
+        # link_text: 
+        sub_title: Information Security Architect
+        caption: Apr 2006 - Jun 2011
+        quote: > 
+        description: | # this will include new lines to allow paragraphs
+            Information security architect responsible for the security and compliance of several high-availability PCI platforms. The platforms provided critical services for several large banks, a national credit card company, small businesses, and a cloud service.
+
+      - layout: left
+        title: Great American Insurance
+        link: 
+        # link_text: 
+        sub_title: Senior Security Engineer 
+        caption: Jun 2003 - Apr 2006
+        quote: > 
+        description: | # this will include new lines to allow paragraphs
+            Security design and operations for this Fortune 500 insurance company. Performed firewall management, conducted vulnerability assessments, and ran critical IAM and security services.
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Miami University 
         caption: 
-        sub_title: BSc Business School, Management Information Systems
+        sub_title: BSc Business School (MIS)
         quote: >
           Miami University, established in 1809, is ranked among the top 50 national public universities by U.S. News & World Report. As an original Public Ivy, Miami provides Ivy League-quality education at a public school.
         description: | # this will include new lines to allow paragraphs
